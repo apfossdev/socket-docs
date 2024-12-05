@@ -5,7 +5,7 @@ title: Usecases
 
 # Introduction
 
-This is not an exhaustive list of usecases that can be built on top but rather some initial ones that are either in progres or we think would make for strong usecase for SOCKET, we would love to hear from you and your usecase!
+This is not an exhaustive list of usecases that can be built on top but rather some initial ones that are either in progress or we think would make for strong usecase for SOCKET. We highly encourge developers to build, experiment and innovate, would love to hear from you and your usecase!
 
 Leveraging chain-abstracted composability and pre-execution and a combination of both of these features some really powerful applications can be built on SOCKET. 
 
